@@ -1,0 +1,16 @@
+Exploratory Data Analisys
+
+
+1 - Olhar váriaveis categóricas para ver se é possivel dar peso para elas
+
+2 - Testes de hipótese nas variaveis categóricas (localização/vizinhança)
+
+3 - mutual information regression (correlação)
+
+4 - correlações negativas
+
+5 - Teste Shapiro para ver se a distrubuição é normal
+
+6 - ANOVA/Teste T (teste do anova apenas em dist normal)
+
+7 - Fazer um primeiro modelo
